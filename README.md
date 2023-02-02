@@ -4,7 +4,7 @@
 
 The problem I tried to solve was classifying the type of star based on the data that was given. I tried to use the numberical data instead of the data that seemed more abstract, such as color and spectral class. This means the variables available are temperature, radius, luminosity, and absolute magnitude.
 
-Note: I had the idea to try and determine the other classifications (color and spectral class) based on the numberical data as well, but I ran out of time.
+Note: I had the idea to try and determine the other classifications (color and spectral class) based on the numerical data as well, but I ran out of time.
 
 ## Treating the Data
 
