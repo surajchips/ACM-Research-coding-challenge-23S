@@ -8,7 +8,7 @@ Note: I had the idea to try and determine the other classifications (color and s
 
 ## Treating the Data
 
-I first researched the variables to determine what they all meant, and realized that absolute magnitude was similar to luminosity. Absolute magnitude seemed to be more consistent and was related to the logarithm of lumiinosity, so I determined that using absolute magnitude as removing luminosity as a variable was sometihng I wanted to do. This relationship can be seen by the first graph in the notebook.
+I first researched the variables to determine what they all meant, and realized that absolute magnitude was similar to luminosity. Absolute magnitude seemed to be more consistent and was related to the logarithm of lumiinosity, so I determined that focusing on absolute magnitude and removing luminosity as a variable was sometihng I wanted to do. This relationship can be seen by the first graph in the notebook.
 
 ## Finding relationships in the data
 
